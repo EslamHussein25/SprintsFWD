@@ -1,0 +1,7 @@
+this folder for all config file for all projects so 
+we can find here the interrupt , GPIO , ADC and so on 
+
+but: 
+
+config.h for preprcessor configuration 
+config.c for linking time configuation 
